@@ -7,4 +7,4 @@ He registers these callback functions in the button with addOnclickCB(), addOnLo
 addOnDoubleClickCB(). In his main loop() he then only calls button.loop() and the whole handling 
 of the button actions is done.
 
-The program shows how easy it is to use this `DebouncedButton`class.
+The program shows how easy it is to use this `DebouncedPushButton`class.
